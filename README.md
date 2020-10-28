@@ -1,0 +1,2 @@
+# Js-TsCode
+Javascript,TyScript
