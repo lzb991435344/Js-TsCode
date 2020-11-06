@@ -33,8 +33,8 @@ let arr2: Array<number> = [1, 2];
 //元组
 //元组类型用来表示已知元素数量和类型的数组，各元素的类型不必相同，对应位置的类型需要相同。
 
-let x: [string, number];
-x = ['Runoob', 1];    // 运行正常
+//let x: [string, number];
+//x = ['Runoob', 1];    // 运行正常
 //x = [1, 'Runoob'];    // 报错
 console.log(x[0]);    // 输出 Runoob
 
