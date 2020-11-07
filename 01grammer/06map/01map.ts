@@ -43,6 +43,8 @@ for (let [key, value] of nameSiteMapping) {
     console.log(key, value);            
 }
 
+//map是es6引入的新数据结构
+//tsc --target es6 test.ts
 /*
 
 2
